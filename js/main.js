@@ -1,6 +1,6 @@
-const nomeUtente = prompt ("Ciao! ci puoi dire come ti chiami?")
-const cognomeUtente = prompt ("Fantastico! e qual è il tuo cognome?")
-const colorePreferitoUtente = prompt ("Che colore ti piace?")
+const nomeUtente = prompt ("Ciao! ci puoi dire come ti chiami?");
+const cognomeUtente = prompt ("Fantastico! e qual è il tuo cognome?");
+const colorePreferitoUtente = prompt ("Che colore ti piace?");
 
 const h1NomeUtente = document.getElementById ("nome_utente");
 
